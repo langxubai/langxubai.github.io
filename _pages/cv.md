@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012 (expected)
+* B.S. in School of Physics, Nankai University,  from 2021
 
 Intern experience
 ======
@@ -38,6 +38,15 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+* C++
+* python
+  * (opencv,
+  * scipy,
+  * numpy,
+  * scikit-learn,
+  * pytorch),
+* MATLAB
+* Mathematica.
 
 Publications
 ======
