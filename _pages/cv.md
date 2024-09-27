@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+my CV as a [PDF](/CV_LangxuBai.pdf)
+
 Education
 ======
 * B.S. in School of Physics, Nankai University,  from 2021
