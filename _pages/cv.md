@@ -13,34 +13,34 @@ click [here](/files/CV_LangxuBai.pdf) to download my CV in PDF format
 
 Education
 ======
-* B.S. in School of Physics, Nankai University,  from 2021
+* B.S. in School of Physics, Nankai University, from 2021
 
 Research Experience
 ======
-* Investigating Stochastic Quantum Signal Processing, [Prof. Yuan Liu](https://scholar.google.com/citations?user=5EGClVoAAAAJ),  Electrical & Computer Engineering, North Carolina State University , Summer 2024
+* Investigating Stochastic Quantum Signal Processing, [Prof. Yuan Liu](https://scholar.google.com/citations?user=5EGClVoAAAAJ), Electrical & Computer Engineering, North Carolina State University, Summer 2024
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Investigating Presence and Absence of Barren Plateaus in Quantum Fisher Kernel [Prof. Li-Wei Yu](https://orcid.org/0000-0002-5849-4029) , Chern Institute of Mathematics, Nankai University , 2023
+* Investigating Presence and Absence of Barren Plateaus in Quantum Fisher Kernel [Prof. Li-Wei Yu](https://orcid.org/0000-0002-5849-4029), Chern Institute of Mathematics, Nankai University, 2023
   * Focused on the Barren Plateaus phenomenon in quantum fisher kernel algorithm in Matrix Product State systems.
   * Encountered the Barren Plateaus phenomenon, where the training of quantum neural networks is impeded due to the vanishing of both the mean and variance of the loss function's gradient. 
   * Utilized the quantum Fisher kernel algorithm to compute the mean and variance corresponding to the Matrix Product State model under both local and global loss functions to assess whether the Barren Plateau phenomenon persists.  
 
-* Investigating Tensor Networks Algorithms in Quantum Physics and Machine Learning , [Prof. Pan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MFnbrRUAAAAJ) , Institute of Theoretical Physics, Chinese Academy of Sciences , Summer 2023
+* Investigating Tensor Networks Algorithms in Quantum Physics and Machine Learning, [Prof. Pan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=MFnbrRUAAAAJ), Institute of Theoretical Physics, Chinese Academy of Sciences, Summer 2023
   * Mastered the fundamentals of tensor networks theory, encompassing tensor decompositions such as Canonical Polyadic Decomposition, Tucker Decomposition, and Higher-Order Singular Value Decomposition.
   * Gained proficiency in Density Matrix Renormalization Group algorithms, infinite DMRG, and a foundational understanding of tensor network construction and its diverse applications in quantum physics and machine learning.
   * Acquired relevant skills in programming tools and software to classically simulate quantum processors efficiently using ITensor(C++) and JuliaTensor (Julia).
   
 Academic Experience
 ======
-* Developing Gainless Parity-time Symmetric Optical System, [Prof. Huanan Li](https://orcid.org/0000-0002-8834-4320) , School of Physics, Nankai University, 2023
+* Developing Gainless Parity-time Symmetric Optical System, [Prof. Huanan Li](https://orcid.org/0000-0002-8834-4320), School of Physics, Nankai University, 2023
   * as Tianjin College Student Innovation and Entrepreneurship Competition.
   * Focused on the realization of unique scattering phenomena in parity-time symmetric optical systems under evanescent wave excitations.
   * Targeted on studying the effective Hamiltonian of the systems which is derived using the quasi-normal mode method.
   * Simulated parity-time symmetric optical systems under evanescent wave excitations with Mathematica.
 
-* Investigating Quantum Phase Transition in Open Quantum Systems, [Prof. Shu Chen](https://orcid.org/0000-0003-2605-6128) , Institute of Physics, Chinese Academy of Sciences, Summer 2023
+* Investigating Quantum Phase Transition in Open Quantum Systems, [Prof. Shu Chen](https://orcid.org/0000-0003-2605-6128), Institute of Physics, Chinese Academy of Sciences, Summer 2023
   * as Yan Jici Talent Program in Physics which is a talent training class co-founded by Nankai University and the Institute of Physics, the Chinese Academy of Sciences.
   * Learnt the basics of superconductivity theory including London Theory, Ginzburg-Landau Theory, BCS Theory, and Density Functional Theory.
   * Accomplished the Monte-Carlo simulation of the two-dimensional Ising model, two-dimensional solution lattice model, and two-dimensional non-lattice Lennard-Jones interaction particle motion.
@@ -87,17 +87,16 @@ Teaching
 
 Honors
 ======
-* National Astronomical Observatories Scholarship， Chinese Academy of Sciences， May 2024
-* Outstanding Student Award(awarded for top 10\% students)， School of Physics, Nankai University， Oct 2023
-* Third Prize of Nankai University Young Physicists’ Tournament， Nankai University， May 2023
-* Nankai University Scholarship， Nankai University， Sept 2022
-* First Prize of Star Fire Award, Nankai University， May 2022
+* National Astronomical Observatories Scholarship, Chinese Academy of Sciences, May 2024
+* Outstanding Student Award(awarded for top 10\% students), School of Physics, Nankai University, Oct 2023
+* Third Prize of Nankai University Young Physicists’ Tournament, Nankai University, May 2023
+* Nankai University Scholarship, Nankai University, Sept 2022
+* First Prize of Star Fire Award, Nankai University, May 2022
   
 Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
 * Vice Director of Department of Research of Student Affairs Committee, Nankai University, 2022 - 2023
-* Monitor of School of Electronic Information and Optical Engineering, Nankai University， 2021 - 2022
+* Monitor of School of Electronic Information and Optical Engineering, Nankai University, 2021 - 2022
 * Staff member of Extracurricular Activity Guidance Center, Nankai University, 2021 - 2022
 * Staff member of Organization Department, Nankai University, 2021 - 2022
 
