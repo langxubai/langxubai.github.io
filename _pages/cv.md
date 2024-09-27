@@ -34,18 +34,18 @@ Research Experience
   
 Academic Experience
 ======
-* Developing Gainless Parity-time Symmetric Optical System , [Prof. Huanan Li](https://orcid.org/0000-0002-8834-4320) , School of Physics, Nankai University , 2023
+* Developing Gainless Parity-time Symmetric Optical System, [Prof. Huanan Li](https://orcid.org/0000-0002-8834-4320) , School of Physics, Nankai University, 2023
   * as Tianjin College Student Innovation and Entrepreneurship Competition.
   * Focused on the realization of unique scattering phenomena in parity-time symmetric optical systems under evanescent wave excitations.
   * Targeted on studying the effective Hamiltonian of the systems which is derived using the quasi-normal mode method.
   * Simulated parity-time symmetric optical systems under evanescent wave excitations with Mathematica.
 
-* Investigating Quantum Phase Transition in Open Quantum Systems , [Prof. Shu Chen](https://orcid.org/0000-0003-2605-6128) , Institute of Physics, Chinese Academy of Sciences , Summer 2023
+* Investigating Quantum Phase Transition in Open Quantum Systems, [Prof. Shu Chen](https://orcid.org/0000-0003-2605-6128) , Institute of Physics, Chinese Academy of Sciences, Summer 2023
   * as Yan Jici Talent Program in Physics which is a talent training class co-founded by Nankai University and the Institute of Physics, the Chinese Academy of Sciences.
   * Learnt the basics of superconductivity theory including London Theory, Ginzburg-Landau Theory, BCS Theory, and Density Functional Theory.
   * Accomplished the Monte-Carlo simulation of the two-dimensional Ising model, two-dimensional solution lattice model, and two-dimensional non-lattice Lennard-Jones interaction particle motion.
 
-* Participating in Quantum Computing Talent Training Plan , [Prof. Zhaofeng Su](https://scholar.google.com/citations?user=0T0pjKkAAAAJ&hl=zh-CN&oi=sra) , University of Science and Technology of China , Summer 2023
+* Participating in Quantum Computing Talent Training Plan, [Prof. Zhaofeng Su](https://scholar.google.com/citations?user=0T0pjKkAAAAJ&hl=zh-CN&oi=sra), University of Science and Technology of China, Summer 2023
   * as the [Quantum Computing Talent Training Plan, Zhaofeng Su, USTC](https://faculty.ustc.edu.cn/zfsu/zh_CN/zhym/593642/list/index.htm)
   * Quantum Computing Talent Training Plan is an honored program for quantum computing seminars organized by Prof. Su.
 <!--
@@ -84,17 +84,25 @@ Teaching
   {% endfor %}</ul>
 
 -->
+
+Honors
+======
+* National Astronomical Observatories Scholarship， Chinese Academy of Sciences， May 2024
+* Outstanding Student Award(awarded for top 10\% students)， School of Physics, Nankai University， Oct 2023
+* Third Prize of Nankai University Young Physicists’ Tournament， Nankai University， May 2023
+* Nankai University Scholarship， Nankai University， Sept 2022
+* First Prize of Star Fire Award, Nankai University， May 2022
   
 Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
-* Vice Director of Department of Research of Student Affairs Committee, Nankai University , Sept. 2022 - June 2023
-* Monitor of School of Electronic Information and Optical Engineering, Nankai University ， Sept. 2021 - June 2022
-* Staff member of Extracurricular Activity Guidance Center, Nankai University , Sept. 2021 - June 2022
-* Staff member of Organization Department, Nankai University , Sept. 2021 - June 2022
+* Vice Director of Department of Research of Student Affairs Committee, Nankai University, 2022 - 2023
+* Monitor of School of Electronic Information and Optical Engineering, Nankai University， 2021 - 2022
+* Staff member of Extracurricular Activity Guidance Center, Nankai University, 2021 - 2022
+* Staff member of Organization Department, Nankai University, 2021 - 2022
 
-* Excellent Proposal Award 2023, School of Physics, Nankai University , Oct. 2023
-* Community Service Excellent Team Parade, Nankai University: volunteer to promote Smart Agricultural Tools to farmers in rural areas of Jizhou District, Tianjin , Oct. 2022
-* Third Place of Dean Cup of the badminton championships team events , April 2022
+* Excellent Proposal Award 2023, School of Physics, Nankai University, Oct. 2023
+* Community Service Excellent Team Parade, Nankai University: volunteer to promote Smart Agricultural Tools to farmers in rural areas of Jizhou District, Tianjin, Oct. 2022
+* Third Place of Dean Cup of the badminton championships team events, April 2022
 
 * A total of 100 hours of volunteer over past two years
