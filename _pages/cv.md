@@ -30,18 +30,6 @@ Research Experience
   * Gained proficiency in Density Matrix Renormalization Group algorithms, infinite DMRG, and a foundational understanding of tensor network construction and its diverse applications in quantum physics and machine learning.
   * Acquired relevant skills in programming tools and software to classically simulate quantum processors efficiently using ITensor(C++) and JuliaTensor (Julia).
   
-Skills
-======
-* C++
-* python
-  * opencv
-  * scipy
-  * numpy
-  * scikit-learn
-  * pytorch
-* MATLAB
-* Mathematica
-
 Academic Experience
 ======
 * Developing Gainless Parity-time Symmetric Optical System , [Prof. Huanan Li](https://orcid.org/0000-0002-8834-4320) , School of Physics, Nankai University , 2023
@@ -61,6 +49,18 @@ Academic Experience
 <!--
   * Learnt the basics through the Chap. 1 - 6 of Quantum Computation and Quantum Information, Nielsen M A, Chuang I L.
   -->
+
+Skills
+======
+* C++
+* python
+  * opencv
+  * scipy
+  * numpy
+  * scikit-learn
+  * pytorch
+* MATLAB
+* Mathematica
 
 <!--
 Publications
