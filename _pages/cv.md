@@ -48,6 +48,7 @@ Academic Experience
 * Participating in Quantum Computing Talent Training Plan, [Prof. Zhaofeng Su](https://scholar.google.com/citations?user=0T0pjKkAAAAJ&hl=zh-CN&oi=sra), University of Science and Technology of China, Summer 2023
   * as the [Quantum Computing Talent Training Plan, Zhaofeng Su, USTC](https://faculty.ustc.edu.cn/zfsu/zh_CN/zhym/593642/list/index.htm)
   * Quantum Computing Talent Training Plan is an honored program for quantum computing seminars organized by Prof. Su.
+
 <!--
   * Learnt the basics through the Chap. 1 - 6 of Quantum Computation and Quantum Information, Nielsen M A, Chuang I L.
   -->
