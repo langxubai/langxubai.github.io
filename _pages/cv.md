@@ -18,9 +18,9 @@ Education
 Research Experience
 ======
 * Investigating Stochastic Quantum Signal Processing, [Prof. Yuan Liu](https://scholar.google.com/citations?user=5EGClVoAAAAJ), Electrical & Computer Engineering, North Carolina State University, Summer 2024
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Developed a framework for Stochastic Quantum Signal Processing by integrating phase angle distributions with polynomial coefficient distributions.
+  * Derived analytical expressions to explore the relationship between stochastic variations in quantum phases and their effects on polynomial structures.
+  * Applied this approach to optimize probabilistic quantum algorithms and enhance robustness against noise.
 
 * Investigating Presence and Absence of Barren Plateaus in Quantum Fisher Kernel [Prof. Li-Wei Yu](https://orcid.org/0000-0002-5849-4029), Chern Institute of Mathematics, Nankai University, 2023
   * Focused on the Barren Plateaus phenomenon in quantum fisher kernel algorithm in Matrix Product State systems.
