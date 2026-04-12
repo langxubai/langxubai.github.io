@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./style.css">
 # Langxu Bai
 
 Email: your.email@example.com / [Other Contact]  
@@ -38,4 +39,4 @@ I will be joining Prof. Pengfei Zhang's group at Fudan University for my PhD stu
 
 ---
 
-*(Optional)* About my name: When writing my name in publications, I stick to the eastern convention... [cite: 13]
+@Langxu Bai

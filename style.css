@@ -1,0 +1,30 @@
+/* 默认浅色模式（白底黑字） */
+body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* 链接颜色 */
+a {
+    color: #0366d6;
+}
+
+/* 当检测到用户的系统是深色模式时，自动覆盖上面的设置 */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        /* 柔和的深灰色，比纯黑护眼 */
+        color: #e0e0e0;
+        /* 浅灰色字体 */
+    }
+
+    a {
+        color: #58a6ff;
+        /* 深色模式下的链接颜色 */
+    }
+
+    /* 如果有图片，深色模式下可以稍微降低亮度，避免刺眼 */
+    img {
+        filter: brightness(.8) contrast(1.2);
+    }
+}
