@@ -1,30 +1,256 @@
-/* 默认浅色模式（白底黑字） */
+/* =============================================
+   Langxu Bai — Personal Homepage Stylesheet
+   ============================================= */
+
+/* ---- Reset & Base ---- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 17px;
+  scroll-behavior: smooth;
+}
+
 body {
-    background-color: #ffffff;
-    color: #333333;
+  font-family: 'Lora', Georgia, serif;
+  background-color: #ffffff;
+  color: #222222;
+  line-height: 1.75;
 }
 
-/* 链接颜色 */
+/* ---- Layout ---- */
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 2.2rem 0;
+}
+
+/* ---- Header / Profile ---- */
+.profile-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* Avatar placeholder (SVG silhouette) */
+.avatar-placeholder {
+  width: 160px;
+  height: 160px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 0 auto 1.4rem;
+  background-color: #eef0f2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar-placeholder svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* If user adds a real <img> inside .avatar-placeholder */
+.avatar-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Name */
+.name {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.6rem;
+  color: #111;
+}
+
+/* Contact info */
+.contact-info {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+/* Nav links (CV | Scholar | GitHub) */
+.profile-links {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.profile-links .sep {
+  color: #bbb;
+}
+
+/* ---- Links ---- */
 a {
-    color: #0366d6;
+  color: #1a6abf;
+  text-decoration: none;
 }
 
-/* 当检测到用户的系统是深色模式时，自动覆盖上面的设置 */
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Sections ---- */
+section {
+  margin-bottom: 0.5rem;
+}
+
+section h2 {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  color: #111;
+}
+
+section p {
+  margin-bottom: 0.8rem;
+}
+
+section ul, section ol {
+  padding-left: 1.4rem;
+}
+
+section ul li, section ol li {
+  margin-bottom: 0.4rem;
+}
+
+/* ---- Publications ---- */
+.note {
+  font-size: 0.88rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.pub-list {
+  list-style: decimal;
+  padding-left: 1.4rem;
+}
+
+.pub-item {
+  margin-bottom: 1.4rem;
+}
+
+.pub-item p {
+  margin-bottom: 0.15rem;
+}
+
+.pub-title {
+  font-size: 1rem;
+}
+
+.pub-authors {
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.pub-venue {
+  font-size: 0.88rem;
+  color: #666;
+}
+
+.pub-badge {
+  display: inline-block;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.78rem;
+  color: #1a6abf;
+  border: 1px solid #1a6abf;
+  border-radius: 3px;
+  padding: 0 5px;
+  line-height: 1.5;
+  vertical-align: middle;
+  margin-left: 2px;
+}
+
+.pub-badge:hover {
+  background-color: #1a6abf;
+  color: #fff;
+  text-decoration: none;
+}
+
+.pub-img {
+  display: block;
+  max-width: 400px;
+  margin-top: 0.7rem;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+}
+
+/* ---- Footer ---- */
+footer {
+  text-align: center;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.82rem;
+  color: #aaa;
+  margin-top: 2rem;
+}
+
+/* =============================================
+   Dark Mode
+   ============================================= */
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: #1a1a1a;
-        /* 柔和的深灰色，比纯黑护眼 */
-        color: #e0e0e0;
-        /* 浅灰色字体 */
-    }
+  body {
+    background-color: #1a1a1a;
+    color: #ddd;
+  }
 
-    a {
-        color: #58a6ff;
-        /* 深色模式下的链接颜色 */
-    }
+  .name { color: #f0f0f0; }
+  section h2 { color: #f0f0f0; }
 
-    /* 如果有图片，深色模式下可以稍微降低亮度，避免刺眼 */
-    img {
-        filter: brightness(.8) contrast(1.2);
-    }
+  .contact-info { color: #999; }
+
+  a { color: #6aacf0; }
+
+  hr { border-top-color: #333; }
+
+  .avatar-placeholder { background-color: #2a2a2a; }
+  .avatar-placeholder svg circle,
+  .avatar-placeholder svg ellipse { fill: #444; }
+
+  .pub-badge {
+    color: #6aacf0;
+    border-color: #6aacf0;
+  }
+  .pub-badge:hover {
+    background-color: #6aacf0;
+    color: #1a1a1a;
+  }
+
+  .pub-img { border-color: #333; }
+  footer { color: #555; }
+
+  img { filter: brightness(.85) contrast(1.1); }
+}
+
+/* =============================================
+   Responsive
+   ============================================= */
+@media (max-width: 600px) {
+  html { font-size: 15px; }
+
+  .avatar-placeholder {
+    width: 120px;
+    height: 120px;
+  }
+
+  .name { font-size: 1.6rem; }
 }
