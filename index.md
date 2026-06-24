@@ -6,7 +6,7 @@ Office: [Your Office Room, Nankai / Fudan]
 
 I am a researcher/student at [Your University]. My research lies at the intersection of Condensed Matter Theory, Quantum Information, and Artificial Intelligence. 
 
-I will be joining Prof. Pengfei Zhang's group at Fudan University for my PhD studies. 
+I will be joining Prof. Xiaopeng Li's group at Fudan University for my PhD studies. 
 
 [Link to your full CV PDF] | [Google Scholar] | [GitHub]
 
